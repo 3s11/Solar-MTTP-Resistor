@@ -1,2 +1,2 @@
 # Solar-MTTP-Resistor
-Photovoltaic heater at maximum power.
+Photovoltaic heater at maximum available power.
