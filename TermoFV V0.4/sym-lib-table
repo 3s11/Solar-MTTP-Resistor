@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "2020-09-03_18-18-27")(type "Legacy")(uri "${KIPRJMOD}/footprints/STM32L412KBU_/2020-09-03_18-18-27.lib")(options "")(descr ""))
-  (lib (name "Driver_FET_PM8841")(type "Legacy")(uri "${KIPRJMOD}/footprints/Driver_FET_PM8841.lib")(options "")(descr ""))
-  (lib (name "TermoFVboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/TermoFVboard-rescue.lib")(options "")(descr ""))
-)
